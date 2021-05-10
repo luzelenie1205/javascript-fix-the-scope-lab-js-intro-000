@@ -2,13 +2,12 @@ var animal = 'dog'
 
 function myAnimal() {
   // You should not need to modify this function
-  return animal
-}
+  return animal}
 
 function yourAnimal()
 {
 var yourAnimal= yourAnimal();
-console.log("cat")
+yourAnimal= 'cat'
 
 return animal
 }
