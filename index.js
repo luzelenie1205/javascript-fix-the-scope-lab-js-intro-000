@@ -5,9 +5,10 @@ function myAnimal() {
   return animal
 }
 
-return function yourAnimal()
+function yourAnimal()
 {
-var animal  = 'cat'
+var yourAnimal= myAnimal();
+
 return animal
 }
 
