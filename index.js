@@ -4,11 +4,9 @@ function myAnimal() {
   // You should not need to modify this function
   return animal}
 
+animal='cat'
 function yourAnimal()
 {
-var yourAnimal= yourAnimal();
-yourAnimal = 'cat'
-
 return animal
 }
 
