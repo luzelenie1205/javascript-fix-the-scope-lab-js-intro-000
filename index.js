@@ -7,7 +7,8 @@ function myAnimal() {
 
 
 function yourAnimal()
-{
+{animal='cat'
+console.log(animal)
 return animal
 }
 
