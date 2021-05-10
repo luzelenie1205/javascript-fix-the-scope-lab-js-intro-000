@@ -7,8 +7,8 @@ function myAnimal() {
 
 return function yourAnimal()
 {
-var a = 'cat';
-return animal;
+var animal  = 'cat'
+return animal
 }
 
 // The tests expect this function to return `animal` just like the previous function
